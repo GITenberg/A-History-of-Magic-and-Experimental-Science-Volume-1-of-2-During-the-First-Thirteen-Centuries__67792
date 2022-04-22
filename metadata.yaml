@@ -1,5 +1,8 @@
 _repo: A-History-of-Magic-and-Experimental-Science-Volume-1-of-2-During-the-First-Thirteen-Centuries__67792
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67792-h/images/cover.jpg
 creator:
   author:
     agent_name: Thorndike, Lynn
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/54214
     wikipedia: https://en.wikipedia.org/wiki/Lynn_Thorndike
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67792#A-History-of-Magic-and-Experimental-Science-Volume-1-of-2-During-the-First-Thirteen-Centuries_
 gutenberg_issued: '2022-04-07'
 identifiers:
   gutenberg: '67792'
